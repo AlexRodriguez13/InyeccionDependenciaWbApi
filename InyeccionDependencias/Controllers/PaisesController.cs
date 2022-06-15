@@ -15,7 +15,7 @@ namespace InyeccionDependencias.Controllers
 
         public PaisesController(IRepositorioPaises repositorioPaises)
         {
-            this.repositorioPaises = repositorioPaises; // uwu
+            this.repositorioPaises = repositorioPaises; // uwu xd
         }
 
         // GET: api/Paises
